@@ -1,3 +1,1 @@
-others demo
- 
- 
+cocos demo
